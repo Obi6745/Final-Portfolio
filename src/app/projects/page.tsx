@@ -29,7 +29,7 @@ export default function Projects() {
     {
       id: 3,
       title: "CSS Rockstar - SZA Lyrics Page",
-      description: "Made a lyric page for SZA's 'Good Days' song. Got to try different fonts and CSS styling. Learned about typography and making text look good.",
+      description: "Made a lyric page for SZA&apos;s &apos;Good Days&apos; song. Got to try different fonts and CSS styling. Learned about typography and making text look good.",
       technologies: ["HTML", "CSS", "Typography"],
       features: [
         "Good typography",
@@ -49,7 +49,7 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="text-lg text-gray-300 text-center max-w-3xl mx-auto">
-            Here are some projects I've worked on for school and for fun. Each one helped me learn something new!
+            Here are some projects I&apos;ve worked on for school and for fun. Each one helped me learn something new!
           </p>
         </div>
       </section>

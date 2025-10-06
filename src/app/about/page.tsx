@@ -26,15 +26,15 @@ export default function About() {
 
             <div className="space-y-4 text-gray-300">
               <p>
-                Hey! I'm Obi Habibi, currently studying Interactive Media Design – Web at Georgian College. 
-                I'm passionate about technology and design, always eager to learn new things about web development and digital media.
+                Hey! I&apos;m Obi Habibi, currently studying Interactive Media Design – Web at Georgian College. 
+                I&apos;m passionate about technology and design, always eager to learn new things about web development and digital media.
               </p>
               <p>
                 My journey into web development started with curiosity about how websites work. I love the problem-solving aspect 
                 of coding and the satisfaction that comes from building something that others can use and enjoy.
               </p>
               <p>
-                As a student, I'm constantly learning new technologies and techniques. I spend time working on assignments, 
+                As a student, I&apos;m constantly learning new technologies and techniques. I spend time working on assignments, 
                 exploring YouTube tutorials, and experimenting with different frameworks to expand my skills.
               </p>
             </div>
@@ -62,7 +62,7 @@ export default function About() {
             <div className="bg-gray-800 rounded-lg p-6">
               <h3 className="text-xl font-bold text-white mb-4">Current Studies</h3>
               <p className="text-gray-300 mb-4">
-                I'm currently enrolled in the Interactive Media Design – Web program at Georgian College. 
+                I&apos;m currently enrolled in the Interactive Media Design – Web program at Georgian College. 
                 This program is teaching me the fundamentals of web development, user experience design, 
                 and digital media creation.
               </p>
